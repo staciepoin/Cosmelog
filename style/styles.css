@@ -1,0 +1,83 @@
+/*
+ * Icon Font font_icons8
+ * Made with love by Icons8 [ https://icons8.com/ ] using FontCustom [ https://github.com/FontCustom/fontcustom ]
+ *
+ * Contacts:
+ *    [ https://icons8.com/contact ]
+ *
+ * Follow Icon8 on
+ *    Twitter [ https://twitter.com/icons_8 ]
+ *    Facebook [ https://www.facebook.com/Icons8 ]
+ *    Google+ [ https://plus.google.com/+Icons8 ]
+ *    GitHub [ https://github.com/icons8 ]
+ */
+
+
+@font-face {
+  font-family: "font_icons8";
+  src: url("../fonts/font_icons8_56df6a43ebb264ee11a40e7af9083461.eot");
+  src: url("../fonts/font_icons8_56df6a43ebb264ee11a40e7af9083461.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/font_icons8_56df6a43ebb264ee11a40e7af9083461.woff2") format("woff2"),
+       url("../fonts/font_icons8_56df6a43ebb264ee11a40e7af9083461.woff") format("woff"),
+       url("../fonts/font_icons8_56df6a43ebb264ee11a40e7af9083461.ttf") format("truetype"),
+       url("../fonts/font_icons8_56df6a43ebb264ee11a40e7af9083461.svg#font_icons8") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "font_icons8";
+    src: url("../fonts/font_icons8_56df6a43ebb264ee11a40e7af9083461.svg#font_icons8") format("svg");
+  }
+}
+
+[data-icons8]:before { content: attr(data-icons8); }
+
+.icons8, [data-icons8]:before,
+.icons8-comb:before,
+.icons8-cosmetic-brush:before,
+.icons8-face-powder-filled:before,
+.icons8-foundation-makeup:before,
+.icons8-hair-dryer:before,
+.icons8-lip-gloss:before,
+.icons8-lips:before,
+.icons8-lipstick:before,
+.icons8-lipstick-2:before,
+.icons8-makeup:before,
+.icons8-mascara:before,
+.icons8-nail-polish:before,
+.icons8-nails:before,
+.icons8-perfume-bottle-filled:before,
+.icons8-spray:before,
+.icons8-tube:before {
+  display: inline-block;
+  font-family: "font_icons8";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icons8-comb:before { content: "\f10b"; }
+.icons8-cosmetic-brush:before { content: "\f103"; }
+.icons8-face-powder-filled:before { content: "\f106"; }
+.icons8-foundation-makeup:before { content: "\f108"; }
+.icons8-hair-dryer:before { content: "\f10c"; }
+.icons8-lip-gloss:before { content: "\f109"; }
+.icons8-lips:before { content: "\f10e"; }
+.icons8-lipstick:before { content: "\f100"; }
+.icons8-lipstick-2:before { content: "\f10f"; }
+.icons8-makeup:before { content: "\f10a"; }
+.icons8-mascara:before { content: "\f104"; }
+.icons8-nail-polish:before { content: "\f107"; }
+.icons8-nails:before { content: "\f10d"; }
+.icons8-perfume-bottle-filled:before { content: "\f102"; }
+.icons8-spray:before { content: "\f105"; }
+.icons8-tube:before { content: "\f101"; }
